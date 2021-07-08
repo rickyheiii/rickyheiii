@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rickyheiii
 - 👀 I’m interested in python C java 
 - 🌱 I’m currently learning HTML CSS JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 如何通過 git 電子郵件聯繫我。
+- 📫 github email
+- I am a student student 
 
 <!---
 rickyheiii/rickyheiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
